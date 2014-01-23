@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ckeditor-full</id>
+    <version>1.0.0</version>
+    <authors>CKEditor</authors>
+    <owners>CKEditor Mark deVilliers </owners>
+    <licenseUrl>https://github.com/ckeditor/ckeditor-releases/blob/stable/standard/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/ckeditor/ckeditor-releases</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Automated Nuget package of the full build, version : $version$ of ckeditor.</description>
+    <releaseNotes>Automated Nuget package of the full build, version : $version$ of ckeditor.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>ckeditor</tags>
+    <dependencies />
+  </metadata>
+   <files>
+		<file src="ckeditor-releases\**\*.*" target="content\Scripts\ckeditor" />
+	</files>
+</package>
