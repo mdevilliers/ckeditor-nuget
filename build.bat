@@ -19,4 +19,10 @@ git.exe checkout tags/full/%version%
 cd ..
 .nuget\NuGet.exe pack ckeditor-full.nuspec -version %version%
 
+
+cd ckeditor-releases
+git.exe checkout tags/%version%
+cd ..
+.nuget\NuGet.exe pack ckeditor-standard-all.nuspec -version %version%
+
 rmdir /S /Q ckeditor-releases
