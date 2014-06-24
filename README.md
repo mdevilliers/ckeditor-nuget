@@ -28,3 +28,4 @@ The following versions have been published :
 
 4.4.1
 
+4.4.2
