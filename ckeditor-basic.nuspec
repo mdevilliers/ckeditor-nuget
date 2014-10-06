@@ -15,6 +15,6 @@
     <dependencies />
   </metadata>
    <files>
-		<file src="ckeditor-releases\**\*.*" target="content\Scripts\ckeditor" />
+		<file src="ckeditor-releases\**\*.*" target="content\Scripts\ckeditor" exclude="ckeditor-releases\samples\**\*.*" />
 	</files>
 </package>
