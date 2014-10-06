@@ -33,3 +33,5 @@ The following versions have been published :
 4.4.3
 
 4.4.4
+
+4.4.5
