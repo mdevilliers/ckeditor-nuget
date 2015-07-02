@@ -10,7 +10,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Automated Nuget package of the standard build, version : $version$ of ckeditor.</description>
     <releaseNotes>Automated Nuget package of the standard build, version : $version$ of ckeditor.</releaseNotes>
-    <copyright>Copyright 2014</copyright>
+    <copyright>Copyright 2015</copyright>
     <tags>ckeditor</tags>
     <dependencies />
   </metadata>
