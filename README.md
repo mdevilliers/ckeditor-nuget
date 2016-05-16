@@ -59,3 +59,5 @@ The following versions have been published :
 4.5.7
 
 4.5.8
+
+4.5.9
