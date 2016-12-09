@@ -67,3 +67,5 @@ The following versions have been published :
 4.5.11
 
 4.6.0
+
+4.6.1
